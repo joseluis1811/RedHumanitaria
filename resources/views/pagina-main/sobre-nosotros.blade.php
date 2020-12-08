@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="container">
-    <h1 class=" text-center">¿Quienes Somos?</h1>
+    <h1 class=" text-center">Conózcanos</h1>
     <div class="row">
         <div class="col-12 col-md-4 ">
             <img src="{{asset('web/images/mision.jpg')}}" class="img-fluid" alt="Responsive image">
